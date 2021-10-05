@@ -1,0 +1,70 @@
+@media only screen and (max-width: 1500px) {
+	.center,
+	.hexagon,
+    .desc {
+		width: 200px;
+	}
+	.hex_row_even,
+	.hex_row_odd {
+		margin-bottom: -295px;
+	}
+}
+
+@media only screen and (max-width: 1100px) {
+	.center,
+	.hexagon,
+    .desc {
+		width: 150px;
+	}
+	.hex_row_even,
+	.hex_row_odd {
+		margin-bottom: -345px;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+	.logo:after {
+		top: 100%;
+		border-left: solid 65px transparent;
+		border-right: solid 65px transparent;
+	}
+}
+
+@media only screen and (max-width: 850px) {
+	.center,
+	.hexagon,
+    .desc {
+		width: 100px;
+	}
+	.hex_row_even,
+	.hex_row_odd {
+		margin-bottom: -395px;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.center,
+	.hexagon,
+    .desc {
+		width: 70px;
+	}
+	.hex_row_even,
+	.hex_row_odd {
+		margin-bottom: -425px;
+	}
+}
+
+@media only screen and (max-width: 450px) {
+	.center,
+	.hexagon,
+    .desc {
+		width: 100%;
+	}
+	.hex_row_even,
+	.hex_row_odd {
+		margin-bottom: 0;
+	}
+	.hexagon {
+		height: 70px;
+	}
+}

@@ -196,32 +196,32 @@
                 <div class="text-end">
                   <div class="social-icons">
                     <div class="social-icons-image d-inline">
-                      <a href="https://www.facebook.com">
+                      <a href="https://www.facebook.com" target="_blank">
                         <img src="images/social-media/facebook.png" alt="Facebook">
                       </a>
                     </div>
                     <div class="social-icons-image d-inline">
-                      <a href="https://www.twitter.com">
+                      <a href="https://www.twitter.com" target="_blank">
                         <img src="images/social-media/twitter.png" alt="Twitter">
                       </a>
                     </div>
                     <div class="social-icons-image d-inline">
-                      <a href="https://www.google.com">
+                      <a href="https://www.google.com" target="_blank">
                         <img src="images/social-media/google.png" alt="Google">
                       </a>
                     </div>
                     <div class="social-icons-image d-inline">
-                      <a href="https://pinterest.com">
+                      <a href="https://pinterest.com" target="_blank">
                         <img src="images/social-media/pinterest.png" alt="Pinterest">
                       </a>
                     </div>
                     <div class="social-icons-image d-inline">
-                      <a href="https://www.linkedin.com">
+                      <a href="https://www.linkedin.com" target="_blank">
                         <img src="images/social-media/linkedin.png" alt="Linkedin">
                       </a>
                     </div>
                     <div class="social-icons-image d-inline">
-                      <a href="https://www.tumblr.com">
+                      <a href="https://www.tumblr.com" target="_blank">
                         <img src="images/social-media/tumblr.png" alt="Tumblr">
                       </a>
                     </div>
@@ -285,7 +285,7 @@
       </div>
     </footer>
     <script src="scripts/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" crossorigin="anonymous"></script>
+    <script src="scripts/popper.min.js"></script>
     <script src="scripts/bootstrap.min.js"></script>
   </body>
 </html>
